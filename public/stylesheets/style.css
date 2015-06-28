@@ -5,3 +5,4 @@ header, nav, section, footer {background-color:#eee; text-align: center}
 nav a {margin: 0 1em 0 0;}
 #page-wrap {color: #fff; margin:2% auto; }
 #page-wrap > .main {border:1px solid #999;color:#000 ; margin:0 0 0.2em; padding: 0.9em;}
+.fa {font-size: 1.8em}
