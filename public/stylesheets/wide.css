@@ -1,0 +1,8 @@
+/*
+* Wide.css
+*/
+body {background-color: #999}
+nav { float:left; height:20em; width:15%;}
+nav a {margin: 0 10em 0 0;}
+section { float:right; height: 20em; width:80%;}
+footer { clear: both; display: block}
