@@ -31,3 +31,8 @@ node_modules
 
 #Sqlite
 *.sqlite
+
+#Otros
+*.env
+
+
